@@ -46,6 +46,8 @@ http://192.168.2.171:9981/stream/channelid/765458446?ticket=5b530d07ad08911b0bc1
 甘肃卫视,http://61.151.179.192/tlivecloud-cdn.ysp.cctv.cn/001/2000294603.m3u8
 青海卫视,http://61.151.179.192/tlivecloud-cdn.ysp.cctv.cn/001/2000294703.m3u8
 天津卫视,http://61.151.179.192/tlivecloud-cdn.ysp.cctv.cn/001/2000295103.m3u8
+凤凰卫视,http://124.232.231.246:6610/000000001001/201500000230/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2&terminal_flag=0&ispcode=8#http://liveali.ifeng.com/live/FHZW.flv
+凤凰资讯,http://124.232.231.246:6610/000000001001/201500000231/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2&terminal_flag=0&ispcode=8#http://liveali.ifeng.com/live/FHZX.flv
 南通电视台社教频道,http://192.168.2.171:9981/stream/channelid/594910860?ticket=81dfc9eca66bfdf362f9b3ebda2c55f1d0908c09&profile=pass#http://u.fzszyx.com/jsnt.php?id=nt2
 南通电视台生活频道,http://192.168.2.171:9981/stream/channelid/19510514?ticket=344b6735d0b8d423c713f576f1274a8939dfb620&profile=pass#http://u.fzszyx.com/jsnt.php?id=nt3
 南通电视台信息频道,http://u.fzszyx.com/jsnt.php?id=nt4
