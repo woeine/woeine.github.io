@@ -51,7 +51,7 @@ http://192.168.2.171:9981/stream/channelid/765458446?ticket=5b530d07ad08911b0bc1
 南通电视台社教频道,http://192.168.2.171:9981/stream/channelid/594910860?ticket=81dfc9eca66bfdf362f9b3ebda2c55f1d0908c09&profile=pass#http://u.fzszyx.com/jsnt.php?id=nt2
 南通电视台生活频道,http://192.168.2.171:9981/stream/channelid/19510514?ticket=344b6735d0b8d423c713f576f1274a8939dfb620&profile=pass#http://u.fzszyx.com/jsnt.php?id=nt3
 南通电视台信息频道,http://u.fzszyx.com/jsnt.php?id=nt4
-$c_startP2P测试$c_end
+$c_startCIBN$c_end
 CIBN综合,http://cibn.peoplevideo.cn/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?wsSecret=24dfaaac2d26b0cc0ff33bf8a5099384#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=18
 CIBN电影,http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=2
 CIBN嗨播,http://cinb1.peoplevideo.cn/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=31
@@ -101,7 +101,7 @@ CIBN音乐综艺,http://stream.guihet.com/tv/cibn.php?id=70#http://bohi321.hk77.
 CIBN经典音乐,http://stream.guihet.com/tv/cibn.php?id=205#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=205
 CIBN古典音乐,http://stream.guihet.com/tv/cibn.php?id=193#http://bohi321.hk77.ok188.top/cibn/cibn.php?id=193
 CIBN莎翁戏剧,http://stream.guihet.com/tv/cibn.php?id=209
-$c_startP2P测试$c_end
+$c_startiHOT$c_end
 iHOT爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
