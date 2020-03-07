@@ -1,7 +1,5 @@
 $c_start国内频道$c_end
 南通电视台新闻综合频道,http://192.168.2.171:9981/stream/channelid/1892459932?ticket=a18aba8059fbe0465173204e25338f531d179bf1&profile=pass#http://u.fzszyx.com/jsnt.php?id=nt1
-
-
 CCTV 1,http://192.168.2.171:9981/stream/channelid/781078647?ticket=a14253adf9ccc37a608406d6f119fe45a08bcca4&profile=pass#http://61.151.179.192/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8#http://192.168.2.171:9981/stream/channelid/2042224684?ticket=ef067a4d718108f3e1dfd6c75851a99e1aa72f9c&profile=pass
 CCTV 2,http://192.168.2.171:9981/stream/channelid/1563228414?ticket=41f86aad76be9437658b94bfa23843485112955a&profile=pass#http://61.151.179.192/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8#http://192.168.2.171:9981/stream/channelid/992242888?ticket=f4f9f94723149d826430d426810c3e05be773ae3&profile=pass
 CCTV 3,http://192.168.2.171:9981/stream/channelid/976209430?ticket=3e7bf2ad34c9b3af2de99c9622f7c2ca652d3f7a&profile=pass#http://61.151.179.192/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8#http://192.168.2.171:9981/stream/channelid/845940813?ticket=bce48e413804b53bfb788378d04c5a0aa30ce2e0&profile=pass
